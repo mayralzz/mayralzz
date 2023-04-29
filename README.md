@@ -1,6 +1,5 @@
 ## Oii, Eu sou a Mayra
-
-📘 Graduando Engenharia de Software na Universidade Catolica SC
+🎓 Graduando Engenharia de Software na Universidade Catolica SC
 
 
 <div>
