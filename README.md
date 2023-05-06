@@ -4,9 +4,6 @@
 
 <div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayralzz&layout=compact-true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<div style="display: inline_block"><br>
   
  <img align="right" alt="may-pic" height="160" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202304/1342558_H5mH7hnp.png">
 
