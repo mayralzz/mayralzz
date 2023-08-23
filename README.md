@@ -1,5 +1,5 @@
 ## Oii, Eu sou a Mayra
-🎓 Graduando Engenharia de Software na PUC de SC
+🎓 Graduando Sistemas de Informação no IFC
 
 
 <div>
