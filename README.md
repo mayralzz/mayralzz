@@ -1,8 +1,6 @@
-🎮 Assistente de Suporte na Multipedidos | Estudante de Sistemas de Informação | Aspirante a Desenvolvedora de Jogos
+🎮 Estudante de Sistemas de Informação | Futura Desenvolvedora de Jogos
 
-Olá! Meu nome é Mayra e atuo como assistente de suporte na empresa Multipedidos. Estou cursando Sistemas de Informação e explorando diversas áreas de tecnologia. Embora ainda esteja decidindo qual caminho seguir, tenho um grande interesse em desenvolvimento de jogos e adoro aprender sobre novas ferramentas e técnicas nessa área.
-
-Sempre em busca de novos desafios e oportunidades de crescimento, estou aberta a colaborar em projetos que me permitam expandir minhas habilidades. Vamos construir algo incrível juntos!
+Olá! Sou a Mayra, apaixonada por tecnologia, criatividade e tudo que envolve desenvolvimento de jogos. Estou atualmente cursando Sistemas de Informação e explorando diferentes áreas da TI para descobrir meu verdadeiro caminho
 
 
 <div> 
